@@ -1,0 +1,86 @@
+04-05-2020 23:22:37	This log contains information about the import schema operation into project 'FriendsWorldDB' on computer 'LAPTOP-6SDJDPA4' by user 'hp'.
+04-05-2020 23:22:38	Import of database schema has started.
+04-05-2020 23:22:49	Gathering database credentials
+04-05-2020 23:22:49	Gathering database options
+04-05-2020 23:22:49	Gathering generic database scoped configuration option
+04-05-2020 23:22:49	Gathering users
+04-05-2020 23:22:49	Gathering roles
+04-05-2020 23:22:49	Gathering application roles
+04-05-2020 23:22:49	Gathering role memberships
+04-05-2020 23:22:49	Gathering filegroups
+04-05-2020 23:22:49	Gathering full-text catalogs
+04-05-2020 23:22:49	Gathering assemblies
+04-05-2020 23:22:49	Gathering certificates
+04-05-2020 23:22:49	Gathering asymmetric keys
+04-05-2020 23:22:49	Gathering symmetric keys
+04-05-2020 23:22:49	Gathering encrypted symmetric keys
+04-05-2020 23:22:49	Gathering schemas
+04-05-2020 23:22:49	Gathering XML schema collections
+04-05-2020 23:22:49	Gathering user-defined data types
+04-05-2020 23:22:49	Gathering user-defined types
+04-05-2020 23:22:49	Gathering table types
+04-05-2020 23:22:49	Gathering unique keys for table types
+04-05-2020 23:22:49	Gathering primary keys for table types
+04-05-2020 23:22:49	Gathering indexes for table types
+04-05-2020 23:22:49	Gathering check constraints for table types
+04-05-2020 23:22:49	Gathering default constraints for table types
+04-05-2020 23:22:49	Gathering partition functions
+04-05-2020 23:22:49	Gathering partition schemes
+04-05-2020 23:22:49	Gathering functions
+04-05-2020 23:22:49	Gathering encrypted functions
+04-05-2020 23:22:49	Gathering aggregates
+04-05-2020 23:22:49	Gathering procedures
+04-05-2020 23:22:49	Gathering encrypted procedures
+04-05-2020 23:22:49	Gathering tables
+04-05-2020 23:22:49	Gathering primary keys
+04-05-2020 23:22:49	Gathering unique constraints
+04-05-2020 23:22:49	Gathering foreign keys
+04-05-2020 23:22:49	Gathering default constraints
+04-05-2020 23:22:49	Gathering check constraints
+04-05-2020 23:22:49	Gathering views
+04-05-2020 23:22:49	Gathering encrypted views
+04-05-2020 23:22:49	Gathering indexes
+04-05-2020 23:22:49	Gathering statistics
+04-05-2020 23:22:49	Gathering full-text index stoplists
+04-05-2020 23:22:49	Gathering search property lists
+04-05-2020 23:22:49	Gathering search properties
+04-05-2020 23:22:49	Gathering full-text indexes
+04-05-2020 23:22:49	Gathering column store indexes
+04-05-2020 23:22:49	Gathering spatial indexes
+04-05-2020 23:22:49	Gathering XML indexes
+04-05-2020 23:22:49	Gathering Selective XML indexes
+04-05-2020 23:22:49	Gathering encrypted triggers
+04-05-2020 23:22:50	Gathering triggers
+04-05-2020 23:22:50	Gathering encrypted and clr ddl triggers
+04-05-2020 23:22:50	Gathering ddl triggers
+04-05-2020 23:22:50	Gathering synonyms
+04-05-2020 23:22:50	Gathering defaults
+04-05-2020 23:22:50	Gathering data constraint uddt bindings
+04-05-2020 23:22:50	Gathering rules
+04-05-2020 23:22:50	Gathering data constraint uddt bindings
+04-05-2020 23:22:50	Gathering message types
+04-05-2020 23:22:50	Gathering queues
+04-05-2020 23:22:50	Gathering contracts
+04-05-2020 23:22:50	Gathering services
+04-05-2020 23:22:50	Gathering event notifications
+04-05-2020 23:22:50	Gathering remote service bindings
+04-05-2020 23:22:50	Gathering broker priorities
+04-05-2020 23:22:50	Gathering signatures
+04-05-2020 23:22:50	Gathering data compression options
+04-05-2020 23:22:50	Gathering sequence types
+04-05-2020 23:22:50	Gathering security policies
+04-05-2020 23:22:50	Gather column encryption keys
+04-05-2020 23:22:50	Gathering column master keys
+04-05-2020 23:22:50	Gathering external data sources
+04-05-2020 23:22:50	Gathering external file formats
+04-05-2020 23:22:50	Gathering external tables
+04-05-2020 23:22:50	Gathering database permissions
+04-05-2020 23:22:50	Gathering extended properties
+04-05-2020 23:22:50	Gathering credentials
+04-05-2020 23:22:50	Gathering logins
+04-05-2020 23:22:50	Gathering server audits
+04-05-2020 23:22:52	Scanning project for duplicate elements
+04-05-2020 23:22:55	Finished duplicate element processing
+04-05-2020 23:22:56	Finished importing database.
+04-05-2020 23:22:56	A summary of the import was saved to the following location: O:\FriendsWorld\FriendsWorld\FriendsWorldDB\Import Schema Logs\FriendsWorldDB_20200504055237.log
+04-05-2020 23:22:56	Click Finish to continue...
